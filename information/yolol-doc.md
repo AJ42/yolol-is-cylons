@@ -13,7 +13,7 @@ variableName = 1.2345 variableName = "HelloWorld" :externalVariable = "Hi"
 |---|---|---|
 A + B | Addition | String concatination of A and B
 A - B | Subtraction | last appearance of B in A is removed from A
-A * B | Multiplicatoin | Runtime Error
+A * B | Multiplication | Runtime Error
 A / B | Division | Runtime Error
 A++ | PostIncrement | Appends a space to A post-operation
 ++A | PreIncrement | Appands a space to A pre-operation
